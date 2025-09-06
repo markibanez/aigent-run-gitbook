@@ -5,13 +5,37 @@ icon: group-arrows-rotate
 
 # Community
 
-Engaging with a vibrant and collaborative community is at the heart of our platform’s ecosystem. We provide multiple avenues for users to connect, share knowledge, and grow together.
+aigent.run isn’t just a platform, it’s a growing ecosystem of builders, traders, and innovators experimenting with the future of AI-driven interaction.\
+Our community is where users share insights, test strategies, and help shape the terminal’s evolution.
 
-#### Community Features
+### **Where to Connect**
 
-* **Social groups**: Join discussions on forums and social media platforms to exchange ideas, share unique strategies, and learn best practices for leveraging aigent.run to its fullest potential.
-* **Platform gamification**: Take part in gamified incentive programs using your **runScore,** designed to bring traders and creators together. These programs reward active participation, collaboration, and innovative use of the platform, fostering a vibrant and cooperative community. By rewarding **runScore** to top traders and successful creators simultaneously, we encourage collaboration and ensure that everyone has the opportunity to work together and succeed on the platform.
-* **Community events**: Participate in dynamic trading events, agent hackathons, and live AMA sessions to gain valuable insights, forge meaningful connections, and maximize your rewards on the platform.\
-  \
-  Join our community now:\
-  TG: [https://t.me/aigentdotrun](https://t.me/aigentdotrun)
+* **Discord:** A hub for deeper technical discussion, feedback, and collaboration - [https://discord.gg/seJnpC2RsN](https://discord.gg/seJnpC2RsN)
+* **Twitter/X:** Updates, announcements, and thought leadership - [https://x.com/aigentdotrun](https://x.com/aigentdotrun)
+* **Telegram:** [https://t.me/aigentdotrun](https://t.me/aigentdotrun)
+
+***
+
+### **Community Events**
+
+We host regular events to bring people together:
+
+* **Virtual Hackathons (Soon):** Build new agent workflows, experiment with MCP tools, and win rewards.
+* **AMAs & Live Sessions:** Direct Q\&A with the team and early access to new features.
+* **Trading Challenges (Soon):** Compete with terminal-driven strategies to test your skills.
+
+***
+
+### **Platform Gamification (v2 in Development)**
+
+Gamified incentives like runScore and referrals will connect directly with community activity.
+
+* Active members who share feedback, create strategies, or invite others will benefit the most.
+* These programs are designed to reward **long-term engagement and collaboration**.
+
+***
+
+### **Get Involved**
+
+Whether you’re here to trade, build, or just explore the future of AI agents, there’s a place for you in the aigent.run community.\
+Join us, contribute your ideas, and help shape the next era of onchain interaction.

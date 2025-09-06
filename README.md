@@ -36,26 +36,26 @@ aigent.run is not another DEX or launchpad. It is a **terminal-first platform**,
 
 ## Learn More
 
-{% content-ref url="ai-agent-terminal/using-the-ai-agent-terminal/" %}
-[using-the-ai-agent-terminal](ai-agent-terminal/using-the-ai-agent-terminal/)
+{% content-ref url="ai-agent-terminal/using-the-ai-agent-terminal.md" %}
+[using-the-ai-agent-terminal.md](ai-agent-terminal/using-the-ai-agent-terminal.md)
 {% endcontent-ref %}
 
-{% content-ref url="tokens-and-trading/launching-a-generative-token/" %}
-[launching-a-generative-token](tokens-and-trading/launching-a-generative-token/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="platform/protocol-overview.md" %}
 [protocol-overview.md](platform/protocol-overview.md)
 {% endcontent-ref %}
 
-{% content-ref url="platform/aigent-token.md" %}
-[aigent-token.md](platform/aigent-token.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="platform/faq.md" %}
 [faq.md](platform/faq.md)
 {% endcontent-ref %}
 
-{% content-ref url="security/in-app-wallet.md" %}
-[in-app-wallet.md](security/in-app-wallet.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
