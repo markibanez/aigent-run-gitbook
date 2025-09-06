@@ -6,8 +6,8 @@
 
 ## Getting Started
 
-* [Wallet Setup](getting-started/wallet-setup.md)
-* [Trading Tokens](getting-started/trading-tokens.md)
+* [Account Setup](getting-started/account-setup.md)
+* [First Commands in the Terminal](getting-started/first-commands-in-the-terminal.md)
 
 ## Agents
 
