@@ -3,6 +3,7 @@ description: >-
   The aigent.run protocol is a modular and robust system designed to integrate
   blockchain functionality, AI-powered agents, and decentralized interactions
   into a seamless platform
+hidden: true
 icon: chart-network
 ---
 

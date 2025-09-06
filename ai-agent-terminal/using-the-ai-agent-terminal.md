@@ -41,20 +41,14 @@ Voice input is perfect for mobile or multitasking users who prefer hands-free co
 [agent-autonomy.md](agent-autonomy.md)
 {% endcontent-ref %}
 
+{% content-ref url="mcp-tools/" %}
+[mcp-tools](mcp-tools/)
+{% endcontent-ref %}
+
 {% content-ref url="agent-frameworks-and-aigentos.md" %}
 [agent-frameworks-and-aigentos.md](agent-frameworks-and-aigentos.md)
 {% endcontent-ref %}
 
 {% content-ref url="social-agents/" %}
 [social-agents](social-agents/)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-### Examples
-
-{% content-ref url="mcp-tools/" %}
-[mcp-tools](mcp-tools/)
 {% endcontent-ref %}

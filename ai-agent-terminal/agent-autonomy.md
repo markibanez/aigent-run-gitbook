@@ -2,7 +2,7 @@
 description: >-
   Your AI agent doesn’t just respond to commands, it can chain together multiple
   actions to get things done
-icon: crop
+icon: brain-circuit
 ---
 
 # Agent Autonomy

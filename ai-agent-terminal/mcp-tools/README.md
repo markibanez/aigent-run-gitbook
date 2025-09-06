@@ -2,7 +2,7 @@
 description: >-
   MCP (Multi-Chain Protocol) tools are the building blocks of the AI Agent
   Terminal
-icon: graduation-cap
+icon: message-bot
 ---
 
 # MCP Tools

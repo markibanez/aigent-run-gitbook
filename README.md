@@ -36,26 +36,26 @@ aigent.run is not another DEX or launchpad. It is a **terminal-first platform**,
 
 ## Learn More
 
+{% content-ref url="getting-started/account-setup.md" %}
+[account-setup.md](getting-started/account-setup.md)
+{% endcontent-ref %}
+
+{% content-ref url="getting-started/first-commands-in-the-terminal.md" %}
+[first-commands-in-the-terminal.md](getting-started/first-commands-in-the-terminal.md)
+{% endcontent-ref %}
+
 {% content-ref url="ai-agent-terminal/using-the-ai-agent-terminal.md" %}
 [using-the-ai-agent-terminal.md](ai-agent-terminal/using-the-ai-agent-terminal.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="ai-agent-terminal/mcp-tools/" %}
+[mcp-tools](ai-agent-terminal/mcp-tools/)
 {% endcontent-ref %}
 
-{% content-ref url="platform/protocol-overview.md" %}
-[protocol-overview.md](platform/protocol-overview.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="platform/security.md" %}
+[security.md](platform/security.md)
 {% endcontent-ref %}
 
 {% content-ref url="platform/faq.md" %}
 [faq.md](platform/faq.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}

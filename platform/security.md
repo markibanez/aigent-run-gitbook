@@ -1,6 +1,6 @@
 ---
 description: Our approach to security
-icon: nfc-pen
+icon: shield-check
 ---
 
 # Security
