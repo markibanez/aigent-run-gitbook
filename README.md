@@ -1,25 +1,38 @@
 ---
+description: What is aigent.run?
 icon: person-to-portal
 ---
 
-# aigent.run
+# Introduction
 
-**aigent.run** empowers users to deploy, trade, and co-own AI-driven capabilities by combining advanced AI frameworks with the blockchain strength of the XRP ecosystem.
+aigent.run is an **AI agent terminal** built for the next generation of onchain interaction. Instead of navigating complex dashboards or decentralized exchanges, users can now simply **chat or speak directly with specialized AI agents** to get things done.
 
-Our platform equips users with groundbreaking AI-driven functionality: Fully-generative token creation, multimodal agent communication (text, speech, and more), and intelligent interaction across digital environments. From managing onchain wallets to executing tasks in social applications and gaming, aigent.run expands opportunities for deploying and integrating AI agents into practical applications.
+Whether buying a token, analyzing onchain data, or automating trading strategies, everything is streamlined into one intuitive terminal experience.
 
-Imagine an AI agent that evolves as a content creator, productivity tool, ecosystem expert and a creative companion, seamlessly integrating across networks while deepening user engagement and driving new revenue opportunities. aigent.run makes it easy to deploy, tokenize and co-own these agents, empowering users to directly participate in a new era of decentralized AI innovation.
+## Why the Pivot?
+
+In our early stages, aigent.run offered a memecoin-focused DEX and launchpad. While these tools were powerful, they were still constrained by the **traditional “click-and-navigate” UX** of existing Web3 platforms.
+
+Through constant development and user feedback, we discovered a more natural way:
+
+* **Ask, don’t click.** Instead of hunting through interfaces, just type “Analyze liquidity for XRP/RLUSD” or “Buy 5000 aixrp using RLUSD”
+* **Agents that adapt.** Tasks are executed by specialized AI agents equipped with MCP tools, chaining together complex actions automatically.
+* **Everything in one place.** From token analysis to automated trading and blockchain exploration, the terminal becomes your universal command center.
 
 ## Vision
 
-At aigent.run, we aim to simplify AI deployment and token creation within a decentralized framework. By integrating AI capabilities with XRP's scalable infrastructure, we provide tools that are straightforward yet powerful.
+We believe conversational AI will replace dashboards as the primary way users interact with blockchains and digital ecosystems. Just as command lines transformed computing decades ago, the **AI Agent Terminal** is redefining how users control onchain activity.
 
-Our goals include:
+With aigent.run, users gain:
 
-* **Trade easily**: Trade generative tokens and agent-tied tokens with ease using our integrated wallet, designed for instant transactions to lock in your profits.
-* **Empowering users:** Simplify the deployment of agents, so anyone can leverage AI technology within the XRP ecosystem.
-* **Intuitive token creation:** Enable users to create tokens easily through a single text prompt.
-* **Autonomous AI development:** Support the growth and evolution of our own AI agent framework by enhancing their ability to operate independently and adapt through continuous learning and interaction.
+* **Efficiency:** Reduce 10+ clicks into a single prompt.
+* **Accessibility:** No technical skills required, if you can chat, you can use the terminal.
+* **Adaptability:** Agents evolve with your workflows, learning from context and preferences.
+* **Interoperability:** Built for the XRP Ledger, with more integrations coming.
+
+### **Key Takeaway**
+
+aigent.run is not another DEX or launchpad. It is a **terminal-first platform**, where **AI agents are the interface**. Faster, smarter, and more user-friendly than anything that came before.
 
 ## Learn More
 

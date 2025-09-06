@@ -2,7 +2,7 @@
 
 ## The Story
 
-* [aigent.run](README.md)
+* [Introduction](README.md)
 
 ## Getting Started
 
