@@ -36,8 +36,8 @@ aigent.run is not another DEX or launchpad. It is a **terminal-first platform**,
 
 ## Learn More
 
-{% content-ref url="agents/launching-an-agent/" %}
-[launching-an-agent](agents/launching-an-agent/)
+{% content-ref url="ai-agent-terminal/using-the-ai-agent-terminal/" %}
+[using-the-ai-agent-terminal](ai-agent-terminal/using-the-ai-agent-terminal/)
 {% endcontent-ref %}
 
 {% content-ref url="tokens-and-trading/launching-a-generative-token/" %}

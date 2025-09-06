@@ -9,17 +9,17 @@
 * [Account Setup](getting-started/account-setup.md)
 * [First Commands in the Terminal](getting-started/first-commands-in-the-terminal.md)
 
-## Agents
+## AI agent Terminal
 
-* [Launching an Agent](agents/launching-an-agent/README.md)
-  * [Agent Frameworks](agents/launching-an-agent/agent-frameworks/README.md)
-    * [aigentOS Framework](agents/launching-an-agent/agent-frameworks/aigentos-framework.md)
-  * [Agent Communication](agents/launching-an-agent/agent-communication.md)
-  * [Case Studies](agents/launching-an-agent/case-studies.md)
-  * [X (Twitter) API Key Walkthrough](agents/launching-an-agent/x-twitter-api-key-walkthrough.md)
-  * [Telegram API Key Walkthrough](agents/launching-an-agent/telegram-api-key-walkthrough.md)
-  * [Discord Agent Integration Walkthrough](agents/launching-an-agent/discord-agent-integration-walkthrough.md)
-* [THINK Integration](agents/think-integration.md)
+* [Using the AI Agent Terminal](ai-agent-terminal/using-the-ai-agent-terminal/README.md)
+  * [Agent Autonomy](ai-agent-terminal/using-the-ai-agent-terminal/agent-autonomy.md)
+  * [MCP Tools](ai-agent-terminal/using-the-ai-agent-terminal/mcp-tools/README.md)
+    * [Categories of MCP Tools](ai-agent-terminal/using-the-ai-agent-terminal/mcp-tools/categories-of-mcp-tools.md)
+  * [Agent Frameworks & aigentOS](ai-agent-terminal/using-the-ai-agent-terminal/agent-frameworks-and-aigentos.md)
+  * [Social Agents](ai-agent-terminal/using-the-ai-agent-terminal/social-agents/README.md)
+    * [X (Twitter) API Key Walkthrough](ai-agent-terminal/using-the-ai-agent-terminal/social-agents/x-twitter-api-key-walkthrough.md)
+    * [Telegram API Key Walkthrough](ai-agent-terminal/using-the-ai-agent-terminal/social-agents/telegram-api-key-walkthrough.md)
+    * [Discord Agent Integration Walkthrough](ai-agent-terminal/using-the-ai-agent-terminal/social-agents/discord-agent-integration-walkthrough.md)
 
 ## Tokens and Trading
 
