@@ -28,4 +28,3 @@
 * [Incentive Programs](platform/incentive-programs.md)
 * [Community](platform/community.md)
 * [FAQ](platform/faq.md)
-* [Protocol Overview](platform/protocol-overview.md)
