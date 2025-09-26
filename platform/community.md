@@ -5,37 +5,24 @@ icon: group-arrows-rotate
 
 # Community
 
-aigent.run isn’t just a platform, it’s a growing ecosystem of builders, traders, and innovators experimenting with the future of AI-driven interaction.\
-Our community is where users share insights, test strategies, and help shape the terminal’s evolution.
+At Hyperrun.ai, we believe that innovation thrives in collaboration. Our community is the backbone of the platform, a space where traders, builders, and learners can share knowledge, refine strategies, and grow together.
 
-### **Where to Connect**
+#### Community Features
 
-* **Discord:** A hub for deeper technical discussion, feedback, and collaboration - [https://discord.gg/seJnpC2RsN](https://discord.gg/seJnpC2RsN)
-* **Twitter/X:** Updates, announcements, and thought leadership - [https://x.com/aigentdotrun](https://x.com/aigentdotrun)
-* **Telegram:** [https://t.me/aigentdotrun](https://t.me/aigentdotrun)
+* **Social groups** → Join our Telegram, Discord, and X (Twitter) channels to exchange ideas, share strategies, and ask questions.
+* **Educational resources** → Learn from guides, live discussions, and user-contributed strategies to trade smarter with Hyperrun.ai.
+* **Events & AMAs** → Participate in trading challenges, live Q\&A sessions, and community workshops to sharpen your skills and connect with others.
+* **Collaborative growth** → As one of the first AI-driven trading terminals for Hyperliquid, your feedback and creativity help shape the future of Hyperrun.ai.
 
-***
+#### Why Join?
 
-### **Community Events**
+* Connect with like-minded traders exploring Hyperliquid’s ecosystem.
+* Share strategies and learn from others using AI in their trading workflows.
+* Gain early access to updates, beta features, and community-driven experiments.
+* Be part of shaping the next wave of accessible, AI-powered trading.
 
-We host regular events to bring people together:
+#### Get Involved
 
-* **Virtual Hackathons (Soon):** Build new agent workflows, experiment with MCP tools, and win rewards.
-* **AMAs & Live Sessions:** Direct Q\&A with the team and early access to new features.
-* **Trading Challenges (Soon):** Compete with terminal-driven strategies to test your skills.
-
-***
-
-### **Platform Gamification (v2 in Development)**
-
-Gamified incentives like runScore and referrals will connect directly with community activity.
-
-* Active members who share feedback, create strategies, or invite others will benefit the most.
-* These programs are designed to reward **long-term engagement and collaboration**.
-
-***
-
-### **Get Involved**
-
-Whether you’re here to trade, build, or just explore the future of AI agents, there’s a place for you in the aigent.run community.\
-Join us, contribute your ideas, and help shape the next era of onchain interaction.
+* **Telegram**: \[link]
+* **Discord**: \[link]
+* **Twitter**: \[link]
