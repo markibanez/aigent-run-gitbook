@@ -1,51 +1,55 @@
 ---
-description: What is Hyperrun.ai?
+description: What is aigent.run?
 icon: person-to-portal
 ---
 
 # Introduction
 
-Hyperrun.ai is your **AI-powered trading terminal for Hyperliquid**.\
-\
-Instead of navigating overwhelming dashboards, you can simply **type or speak your intent** and let your AI agent handle execution.
+aigent.run is an **AI agent terminal** built for the next generation of onchain interaction. Instead of navigating complex dashboards or decentralized exchanges, users can now simply **chat or speak directly with specialized AI agents** to get things done.
 
-Hyperrun.ai supports:
+Whether buying a token, analyzing onchain data, or automating trading strategies, everything is streamlined into one intuitive terminal experience.
 
-* Spot trading
-* Perpetual trading
-* Cross-chain bridging into and out of Hyperliquid
+## Why the Pivot?
 
-Our mission is to make Hyperliquid trading **accessible, fast, and intuitive** for everyone.
+In our early stages, aigent.run offered a memecoin-focused DEX and launchpad. While these tools were powerful, they were still constrained by the **traditional “click-and-navigate” UX** of existing Web3 platforms.
 
-## Vision & Purpose
+Through constant development and user feedback, we discovered a more natural way:
 
-### Why Hyperrun.ai?
+* **Ask, don’t click.** Instead of hunting through interfaces, just type “Analyze liquidity for XRP/RLUSD” or “Buy 5000 aixrp using RLUSD”
+* **Agents that adapt.** Tasks are executed by specialized AI agents equipped with MCP tools, chaining together complex actions automatically.
+* **Everything in one place.** From token analysis to automated trading and blockchain exploration, the terminal becomes your universal command center.
 
-* **Accessibility** → Trading should be simple. If you can type or speak, you can trade.
-* **Confidence** → Get explanations, backtests, and strategy support in your native language.
-* **Speed** → Turn 10+ clicks into one command.
-* **Focus** → 100% designed for **Hyperliquid trading** + bridging.
+## Vision
 
-## Our Mission
+We believe conversational AI will replace dashboards as the primary way users interact with blockchains and digital ecosystems. Just as command lines transformed computing decades ago, the **AI Agent Terminal** is redefining how users control onchain activity.
 
-To create the easiest way to participate in Hyperliquid’s ecosystem, whether you’re a casual trader just starting out or an experienced user who wants to move faster.
+With aigent.run, users gain:
+
+* **Efficiency:** Reduce 10+ clicks into a single prompt.
+* **Accessibility:** No technical skills required, if you can chat, you can use the terminal.
+* **Adaptability:** Agents evolve with your workflows, learning from context and preferences.
+* **Interoperability:** Built for the XRP Ledger, with more integrations coming.
+
+### **Key Takeaway**
+
+aigent.run is not another DEX or launchpad. It is a **terminal-first platform**, where **AI agents are the interface**. Faster, smarter, and more user-friendly than anything that came before.
 
 ## Learn More
 
-{% content-ref url="getting-started/account-and-wallet-setup.md" %}
-[account-and-wallet-setup.md](getting-started/account-and-wallet-setup.md)
+{% content-ref url="getting-started/account-setup.md" %}
+[account-setup.md](getting-started/account-setup.md)
 {% endcontent-ref %}
 
-{% content-ref url="getting-started/first-commands-in-the-terminal/" %}
-[first-commands-in-the-terminal](getting-started/first-commands-in-the-terminal/)
+{% content-ref url="getting-started/first-commands-in-the-terminal.md" %}
+[first-commands-in-the-terminal.md](getting-started/first-commands-in-the-terminal.md)
 {% endcontent-ref %}
 
-{% content-ref url="ai-agent-terminal/bridging-funds.md" %}
-[bridging-funds.md](ai-agent-terminal/bridging-funds.md)
+{% content-ref url="ai-agent-terminal/using-the-ai-agent-terminal.md" %}
+[using-the-ai-agent-terminal.md](ai-agent-terminal/using-the-ai-agent-terminal.md)
 {% endcontent-ref %}
 
-{% content-ref url="ai-agent-terminal/how-hyperrun-works.md" %}
-[how-hyperrun-works.md](ai-agent-terminal/how-hyperrun-works.md)
+{% content-ref url="ai-agent-terminal/mcp-tools/" %}
+[mcp-tools](ai-agent-terminal/mcp-tools/)
 {% endcontent-ref %}
 
 {% content-ref url="platform/security.md" %}
